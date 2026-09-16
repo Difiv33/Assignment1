@@ -6,7 +6,7 @@ html {
 .sitetitle1 {
     text-align: center;
     font-family: 'Courier New';
-    font-size: xxx-large;
+    font-size: 50px;
 }
 
 nav {
@@ -48,7 +48,7 @@ nav a.index1 {
     color: rgb(131, 165, 226);
 }
 
-nav a.gallery1 {
+nav a.tech1 {
     color: rgb(131, 165, 226);
 }
 
