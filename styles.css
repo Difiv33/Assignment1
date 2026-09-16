@@ -98,3 +98,16 @@ nav a.contact1 {
 footer {
     text-align: center;
 }
+
+#contact1 {
+    padding: 0;
+    text-align: center;
+    list-style-position: inside;
+}
+
+#engine1 {
+ width: 350px;   
+ height: 300px;
+margin: auto;
+display: block;
+}
